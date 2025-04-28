@@ -34,7 +34,7 @@
 
                     <!-- Gradient button -->
                     <button type="button"
-                        class="relative rounded-md px-4 py-1.5 text-sm font-medium text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 transition-all duration-200">
+                        class="relative rounded-md px-4 py-1.5 text-sm font-medium text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 bg-gradient-to-r from-gray-800 to-purple-600 hover:from-blue-600 hover:to-purple-700 transition-all duration-200">
                         JOIN HYDRA
                     </button>
                 </div>
