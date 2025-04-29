@@ -3,5 +3,7 @@
     <SiteHeader />
     <NuxtPage />
     <HeroSection/>
+    <AboutSection/>
+    <BuildSection/>
   </div>
 </template>

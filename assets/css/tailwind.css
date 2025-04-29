@@ -3,7 +3,8 @@
 @tailwind utilities;
 
 body {
-    @apply bg-gray-800;
+    /* @apply bg-gray-800; */
+    background: #302C42;
 }
 
 @layer components {
