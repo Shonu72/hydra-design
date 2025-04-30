@@ -5,6 +5,7 @@
 body {
     /* @apply bg-gray-800; */
     background: #302C42;
+    font-family: 'Montserrat', sans-serif;
 }
 
 @layer components {

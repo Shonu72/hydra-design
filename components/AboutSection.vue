@@ -4,7 +4,7 @@
             <div class="flex justify-center items-center">
                 <div>
                     <h1 class="text-3xl text-white font-bold text-gray-900">INTRODUCTION</h1>
-                    <h3 class="text-lg text-white " style="font-family: 'font-montserrat'; ">TO HYDRA VR →</h3>
+                    <h3 class="text-lg text-white " >TO HYDRA VR →</h3>
                     <img src="~assets/about.png" alt="About Us" class=" img rounded-md shadow-lg max-w-md mt-10" />
 
                 </div>
@@ -17,10 +17,8 @@
                     lectus sit amet est placerat in. Lectus magna fringilla urna porttitor rhoncus vitae.</p>
 
                 <div class="flex flex-col justify-center items-start space-y mt-16">
-
-
                     <h2 class="text-3xl text-white font-bold mb-2">About</h2>
-                    <h3 class="text-lg text-white  mb-2" style="font-family: 'font-montserrat'; ">HYDRA VR</h3>
+                    <h3 class="text-lg text-white mb-2" >HYDRA VR</h3>
                     <p class="text-white">Eget mi proin sed libero enim sed faucibus turpis. Nisl rhoncus mattis rhoncus
                         urna neque viverra justo. Vivamus at augue eget arcu dictum. Ultrices gravida
                         dictum fusce ut placerat orci. Aenean et tortor at risus viverra adipiscing at in.

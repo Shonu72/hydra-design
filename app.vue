@@ -1,4 +1,5 @@
 <template>
+  <NuxtLayout>
   <div>
     <SiteHeader />
     <NuxtPage />
@@ -6,4 +7,5 @@
     <AboutSection/>
     <BuildSection/>
   </div>
+</NuxtLayout>
 </template>

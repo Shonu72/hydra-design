@@ -4,24 +4,19 @@
             <div class="flex justify-start items-center px-20">
                 <div>
                     <h1 class="text-3xl text-white font-bold text-gray-900">WHY BUILD</h1>
-                    <h3 class="text-lg text-white " style="font-family: 'font-montserrat'; ">WITH HYDRA? →</h3>
+                    <h3 class="text-lg text-white font-medium " >WITH HYDRA? →</h3>
                 </div>
             </div>
-
-
             <p class="text-white text-sm">Vitae sapien pellentesque habitant morbi tristique senectus et netus et.
                 Feugiat
                 nibh sed pulvinar proin gravida hendrerit lectus. Mi sit amet mauris commodo
                 quis imperdiet massa tincidunt nunc. Viverra aliquet eget sit amet tellus. Ornare
                 lectus sit amet est placerat in. Lectus magna fringilla urna porttitor rhoncus vitae.</p>
-
-
-
-
         </div>
         <div class="min-h-screen bg-transparent py-12 px-4 sm:px-6 lg:px-8">
             <div class="max-w-7xl mx-auto">
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+                    
                     <!-- Card 1 -->
                     <div
                         class="relative bg-gray-900 rounded-lg shadow-md overflow-hidden transition-transform hover:scale-105">
@@ -129,6 +124,7 @@
                             </button>
                         </div>
                     </div>
+
                 </div>
             </div>
         </div>
